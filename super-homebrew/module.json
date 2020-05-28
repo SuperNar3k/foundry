@@ -13,11 +13,11 @@
 	"readme": "https://github.com/SuperNar3k/foundry/blob/master/README.md",
 	"packs": [
 		{
-			"name": "supers-homebrew-items",
+			"name": "items",
 			"label": "Homebrew Items",
 			"system": "dnd5e",
 			"module": "Super's Homebrews",
-			"path": "./paths/supers-homebrew-items.db",
+			"path": "./paths/items.db",
 			"entity": "Item"
 		}
 	]
