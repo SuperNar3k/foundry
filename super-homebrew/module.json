@@ -5,6 +5,7 @@
 	"author": "SuperNar3k",
 	"version": "0.0.1",
 	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion": "0.6.0",
 	"url": "https://github.com/SuperNar3k/foundry/tree/master/super-homebrew",
 	"download": "https://github.com/SuperNar3k/foundry/archive/master.zip",
 	"system": "dnd5e",
