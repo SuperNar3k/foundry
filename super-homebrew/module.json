@@ -9,5 +9,14 @@
 	"download": "https://github.com/SuperNar3k/foundry/archive/master.zip",
 	"system": "dnd5e",
 	"manifest": "https://raw.githubusercontent.com/SuperNar3k/foundry/master/super-homebrew/module.json",
-	"readme": "https://github.com/SuperNar3k/foundry/blob/master/README.md"
+	"readme": "https://github.com/SuperNar3k/foundry/blob/master/README.md",
+	"packs": [
+		{
+			"name": "supers-homebrew-items",
+			"label": "Super's Homebrew Items",
+			"system": "dnd5e",
+			"path": "./paths/supers-homebrew-items.db",
+			"entity": "Item"
+		}
+	]
 }
