@@ -9,6 +9,7 @@
 	"url": "https://github.com/SuperNar3k/foundry/tree/master/super-homebrew",
 	"download": "",
 	"system": "dnd5e",
-	"manifest": "https://raw.githubusercontent.com/SuperNar3k/foundry/master/super-homebrew/module.json",
-	"readme": ""
+	"manifest": "https://raw.githubusercontent.com/SuperNar3k/foundry/master/super-homebrew/super-homebrew/module.json",
+	"readme": "https://raw.githubusercontent.com/SuperNar3k/foundry/master/super-homebrew/README.md",
+	"license": "https://github.com/SuperNar3k/foundry/blob/master/LICENSE"
 }
