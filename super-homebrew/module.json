@@ -1,0 +1,8 @@
+{
+	"name": "super-homebrew",
+	"title": "Super's Homebrew Comendium",
+	"description": "A module that adds additional homebrewed content for your dnd5e games. They are as balanced as possible, but keep in mind that they are still homebrew.",
+	"author": "SuperNar3k",
+	"version": "0.0.1",
+	"minimumCoreVersion": "0.6.0"
+}
