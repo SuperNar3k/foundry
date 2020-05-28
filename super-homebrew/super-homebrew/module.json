@@ -1,0 +1,14 @@
+{
+	"name": "super-homebrew",
+	"title": "Super's Homebrew Compendium",
+	"description": "A module that adds additional homebrewed content for your dnd5e games. They are as balanced as possible, but keep in mind that they are still homebrew.",
+	"author": "SuperNar3k",
+	"version": "0.0.1",
+	"minimumCoreVersion": "0.5.0",
+	"compatibleCoreVersion": "0.6.0",
+	"url": "https://github.com/SuperNar3k/foundry/tree/master/super-homebrew",
+	"download": "https://github.com/SuperNar3k/foundry/archive/master.zip",
+	"system": "dnd5e",
+	"manifest": "https://raw.githubusercontent.com/SuperNar3k/foundry/master/super-homebrew/module.json",
+	"readme": "https://github.com/SuperNar3k/foundry/blob/master/README.md"
+}
