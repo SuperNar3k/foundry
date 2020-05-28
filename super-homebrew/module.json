@@ -14,8 +14,9 @@
 	"packs": [
 		{
 			"name": "supers-homebrew-items",
-			"label": "Super's Homebrew Items",
+			"label": "Homebrew Items",
 			"system": "dnd5e",
+			"module": "Super's Homebrews",
 			"path": "./paths/supers-homebrew-items.db",
 			"entity": "Item"
 		}
