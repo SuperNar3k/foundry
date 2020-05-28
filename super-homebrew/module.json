@@ -3,7 +3,7 @@
 	"title": "Super's Homebrew Compendium",
 	"description": "A module that adds additional homebrewed content for your dnd5e games. They are as balanced as possible, but keep in mind that they are still homebrew.",
 	"author": "SuperNar3k",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "0.6.0",
 	"url": "https://github.com/SuperNar3k/foundry/tree/master/super-homebrew",
