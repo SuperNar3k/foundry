@@ -11,6 +11,7 @@
 
 ### Description
 This module provides additional homebrewed D&D 5th Edition content to be used in FoundryVTT. More to come!
+Note: this module is even better when paired up with the DynamicEffects and MagicItems modules (but is not needed to function). 
 
 ### Installation Guide
 
