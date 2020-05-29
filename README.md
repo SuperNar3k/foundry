@@ -1,13 +1,13 @@
 # Super's Homebrew Compendium
 
 * Author: SuperNar3k
-* Version: 1.0.0
+* Version: 1.0.1
 * Foundry VTT Compatibility: 0.6.0
 * System Compatibility: D&D 5th Edition 0.9.0
 
 ### Link(s) to Module
 * https://foundryvtt.com/packages/
-* https://github.com/SuperNar3k/foundry/tree/master/super-homebrew
+* https://github.com/SuperNar3k/foundry/tree/master/SupersHomebrewPack
 
 ### Description
 This module provides additional homebrewed D&D 5th Edition content to be used in FoundryVTT. More to come!
@@ -17,7 +17,7 @@ This module provides additional homebrewed D&D 5th Edition content to be used in
 * Open the Foundry application
 * Go to "Add-On Modules" tab
 * Click "Install Module" button at the bottom.
-* Paste the following link: https://raw.githubusercontent.com/SuperNar3k/foundry/master/super-homebrew/module.json
+* Paste the following link: https://raw.githubusercontent.com/SuperNar3k/foundry/master/SupersHomebrewPack/module.json
 * Click "Install"
 * Activate the module in your World using Manage Modules under the Game Settings tab.
 
