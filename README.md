@@ -11,6 +11,7 @@
 
 ### Description
 This module provides additional homebrewed D&D 5th Edition content to be used in FoundryVTT. More to come!
+Spotlights: magical items, homebrew Deck of Many Things, Inspiration and Mockery tables, d&d 5e Conditions!
 Note: this module is even better when paired up with the DynamicEffects and MagicItems modules (but is not needed to function). 
 
 ### Installation Guide
