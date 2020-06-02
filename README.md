@@ -1,7 +1,7 @@
 # Super's Homebrew Compendium
 
 * Author: SuperNar3k
-* Version: 1.4.3
+* Version: 1.5.0
 * Foundry VTT Compatibility: 0.6.1
 * System Compatibility: D&D 5th Edition 0.9.2
 
@@ -12,7 +12,7 @@
 ### Description
 This module provides additional homebrewed D&D 5th Edition content to be used in FoundryVTT. More to come!
 Spotlights: magical items, homebrew Deck of Many Things, Inspiration and Mockery tables, d&d 5e Conditions!
-Note: this module is even better when paired up with the DynamicEffects and MagicItems modules (but is not needed to function). 
+Note: this module is even better when paired up with the DynamicEffects, BetterRolls and MagicItems modules (but is not needed to function). 
 
 ### Installation Guide
 

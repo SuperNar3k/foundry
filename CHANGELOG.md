@@ -4,10 +4,12 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## 1.4.3 - 2020-06-01
+## 1.5.0 - 2020-06-01
 - Fixed links in Conditions table
 - Fixed magic item costs
-- New item: Silvered Vicious Staff of Striking 
+- New item: Silvered Vicious Staff of Striking
+- New item: Nut Cannon
+- New ammunition: True Nuts
 
 ## 1.4.2 - 2020-06-01
 - Fixed a spelling mistake
