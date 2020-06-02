@@ -4,6 +4,11 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.4.3 - 2020-06-01
+- Fixed links in Conditions table
+- Fixed magic item costs
+- New item: Silvered Vicious Staff of Striking 
+
 ## 1.4.2 - 2020-06-01
 - Fixed a spelling mistake
 - New RollRable: A homebrew Deck of Many Things! It is as balanced as I could make it. I took some inspiration from @4d6.drop.lowest.
