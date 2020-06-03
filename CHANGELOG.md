@@ -4,6 +4,15 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.6.0 - 2020-06-02
+- Fixed link in Grappled condition
+- Fixed spelling error in Helmet of Ni
+- Balanced the cost of magic items according to Sane Magic Prices
+- New spell: Summon Black Rocks (2nd level)
+- New spell: Decay (9th level)
+- New item: The Sundrop (Artifact)
+- New item: The Moonstone Opal (Artifact)
+
 ## 1.5.0 - 2020-06-01
 - Fixed links in Conditions table
 - Fixed magic item costs

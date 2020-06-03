@@ -3,7 +3,7 @@
 	"title": "Super's Homebrew Compendium",
 	"description": "A module that adds additional homebrewed content for your dnd5e games. They are as balanced as possible, but keep in mind that they are still homebrew. Works even better when paired with Magic Items, Better Rolls and Dynamic Effects modules!",
 	"author": "SuperNar3k",
-	"version": "1.5.1",
+	"version": "1.6.0",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "0.6.1",
 	"url": "https://github.com/SuperNar3k/foundry/tree/master/SupersHomebrewPack",
