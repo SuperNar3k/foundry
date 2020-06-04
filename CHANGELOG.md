@@ -4,6 +4,17 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.0.0 - 2020-06-03
+- Feats update! Added 50 brand new feats (Dancer is my favorite). If you have the Dynamic Effects module, the feats have passive effects built-in!
+- Added 5% chance to summon a tumor sock with the Summon Sock spell.
+- New item: Frostward Bitter Butter Beer (for the alcohol lovers)
+- New item: Potion of Calamity
+- New item: Potion of Defense
+- New item: Potion of Mana
+- New item: Potion of Sheep's Clothing
+- New item: Potion of Spell Resistance
+- New item: Spicy Dinosaur (a delicious fruity cocktail for the fancy elf)
+
 ## 1.6.1 - 2020-06-02
 - Fix linking error in The Moonstone Opal
 
