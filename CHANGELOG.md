@@ -4,6 +4,27 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.2.0 - 2020-06-05 Cleric update!
+- Spelling fix in The Necronomicon
+- New item: +1 Holy Symbol
+- New item: +2 Holy Symbol
+- New item: +3 Holy Symbol
+- New item: Blessed Dawnstar
+- New item: Book of Hakob
+- New item: Censor of Divinity
+- New item: Claw of Myrkul
+- New item: Flower Armor of Khloris
+- New item: Goblet of Purity
+- New item: Incense of Peaceful Rest
+- New item: Lolth's Burrowing Arrow
+- New item: Lovely Seeds of Silvanus
+- New item: Lurue's Horn
+- New item: Moradin's Hammer
+- New item: Pray Beads of Recall
+- New item: Fiery Dagger of Loviatar
+- New item: Vessel of Vessenia
+- New item: The Holy Grail
+
 ## 2.1.0 - 2020-06-04 Warlock update!
 - Spelling fixes and other typos
 - All spells now have class restrictions
