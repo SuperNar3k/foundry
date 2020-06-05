@@ -4,8 +4,30 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## 2.0.0 - 2020-06-03
-- Feats update! Added 50 brand new feats (Dancer is my favorite). If you have the Dynamic Effects module, the feats have passive effects built-in!
+## 2.1.0 - 2020-06-04 Warlock update!
+- Spelling fixes and other typos
+- All spells now have class restrictions
+- New item: Bearded Devil Cowl
+- New item: Binding Talisman
+- New item: Boots of the Winter Queen
+- New item: Devil's Tongue
+- New item: Fire Distinguisher Axe
+- New item: Teeth Boots
+- New item: Dream Pigment
+- New item: False Path Stones
+- New item: Flower of the Summer Queen
+- New item: Golden Chain
+- New item: Hag's Doorknob
+- New item: Hezrou Heart
+- New item: Kappa Shell
+- New item: The Necronomicon
+- New item: Nerve Lash Gloves
+- New item: Red Cap Hood
+- New item: Robes of the Pactmaker
+- New item: Stinger of Horror
+
+## 2.0.0 - 2020-06-03 Feat Update!
+- Added 50 brand new feats (Dancer is my favorite). If you have the Dynamic Effects module, the feats have passive effects built-in!
 - Added 5% chance to summon a tumor sock with the Summon Sock spell.
 - New item: Frostward Bitter Butter Beer (for the alcohol lovers)
 - New item: Potion of Calamity
