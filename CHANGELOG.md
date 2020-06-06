@@ -4,13 +4,14 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## 2.3.0 - 2020-06-06 - Bard update! Atavist Class!
+## 2.3.2 - 2020-06-06 - Bard update! Atavist Class!
 - Spelling and typo fixes
 - New class: Atavist! Finally a balanced half-caster blood magic class!
 - New class features folder: filled with all Atavist class features
 - New spells: 17 brand new spooky spells!
 - New items: 18 brand new Bard-flavored items!
 - New legendary item: Dual Glocks (dual hand crossbows)
+- Foundry 0.6.2 compatability
 
 ## 2.2.0 - 2020-06-05 - Cleric update!
 - Spelling fix in The Necronomicon
