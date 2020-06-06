@@ -4,7 +4,15 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## 2.2.0 - 2020-06-05 Cleric update!
+## 2.3.0 - 2020-06-06 - Bard update! Atavist Class!
+- Spelling and typo fixes
+- New class: Atavist! Finally a balanced half-caster blood magic class!
+- New class features folder: filled with all Atavist class features
+- New spells: 17 brand new spooky spells!
+- New items: 18 brand new Bard-flavored items!
+- New legendary item: Dual Glocks (dual hand crossbows)
+
+## 2.2.0 - 2020-06-05 - Cleric update!
 - Spelling fix in The Necronomicon
 - New item: +1 Holy Symbol
 - New item: +2 Holy Symbol
@@ -23,9 +31,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - New item: Pray Beads of Recall
 - New item: Fiery Dagger of Loviatar
 - New item: Vessel of Vessenia
-- New item: The Holy Grail
+- New artifact: The Holy Grail
 
-## 2.1.0 - 2020-06-04 Warlock update!
+## 2.1.0 - 2020-06-04 - Warlock update!
 - Spelling fixes and other typos
 - All spells now have class restrictions
 - New item: Bearded Devil Cowl
@@ -41,13 +49,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - New item: Hag's Doorknob
 - New item: Hezrou Heart
 - New item: Kappa Shell
-- New item: The Necronomicon
 - New item: Nerve Lash Gloves
 - New item: Red Cap Hood
 - New item: Robes of the Pactmaker
 - New item: Stinger of Horror
+- New artifact: The Necronomicon
 
-## 2.0.0 - 2020-06-03 Feat Update!
+## 2.0.0 - 2020-06-03 - Feat Update!
 - Added 50 brand new feats (Dancer is my favorite). If you have the Dynamic Effects module, the feats have passive effects built-in!
 - Added 5% chance to summon a tumor sock with the Summon Sock spell.
 - New item: Frostward Bitter Butter Beer (for the alcohol lovers)
@@ -67,8 +75,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Balanced the cost of magic items according to Sane Magic Prices
 - New spell: Summon Black Rocks (2nd level)
 - New spell: Decay (9th level)
-- New item: The Sundrop (Artifact)
-- New item: The Moonstone Opal (Artifact)
+- New artifact: The Sundrop (Artifact)
+- New artifact: The Moonstone Opal (Artifact)
 
 ## 1.5.0 - 2020-06-01
 - Fixed links in Conditions table
