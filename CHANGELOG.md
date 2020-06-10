@@ -4,10 +4,13 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## 2.3.3 - 2020-06-09
+## 2.3.4 - 2020-06-09
 - Fixed Avatist spell list
 - Fixed Avatist subclass list
 - Changed Lolth's Burrowing Arrow from weapon to consumable
+- Small nerf on Dual Glocks
+- Added weight and price to the Book of Dreams
+- Fixed cost of some items
 
 ## 2.3.2 - 2020-06-06 - Bard update! Atavist Class!
 - Spelling and typo fixes
