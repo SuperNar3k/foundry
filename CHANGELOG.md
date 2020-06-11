@@ -4,6 +4,11 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.4.0 - 2020-06-11 - Barbarian update!
+- New feat: Cleave Master
+- New legendary item: Shovel (in tribute of Rick May. You will be missed. o7)
+- 12 new barbarian-themed items!
+
 ## 2.3.4 - 2020-06-09
 - Fixed Avatist spell list
 - Fixed Avatist subclass list
