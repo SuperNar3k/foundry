@@ -4,6 +4,11 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.4.1 - 2020-06-13
+- Spelling fixes
+- Fixed some spells
+- Weapons can now have the "Magic" tag.
+
 ## 2.4.0 - 2020-06-11 - Barbarian update!
 - New feat: Cleave Master
 - New legendary item: Shovel (in tribute of Rick May. You will be missed. o7)
