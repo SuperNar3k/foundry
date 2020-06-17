@@ -4,6 +4,13 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.5.0 - 2020-06-16 - Revised Ranger update!
+- Spelling fixes
+- New condition: Muted
+- New item: Rock of Detection
+- New class and class features: The Revised Ranger
+- Fixed some inlines and links of the Avatist.
+
 ## 2.4.1 - 2020-06-13
 - Spelling fixes
 - Fixed some spells
