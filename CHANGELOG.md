@@ -4,6 +4,11 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.6.0 - 2020-06-21 - Major update!
+- 141 New feats!
+- 37 New items: Eldrinova, Think-Tacs, Quik-Pot, The Bloodletter, Scepter of the Blue Nebula, Suit of the Eternal Storm, Chthonic Tonic, Eldritch Brew, Cantrip Blaster, Ritual Dagger, Space Mace, Icebreaker, Deathly Diadem, Bone Shepherd's Halberd, Fragment of the Cursed, Warpaint of the Initiated, Cure of the Ages, Bubonicum, Hero's Breakfast, Brigand's Acorns, Burst Boots, Core Shard, Venomous Fang, Pik-Me-Up, Boblin's Blackjack, Ambu-Lance, Magitricorne, Boon of Tetanus, Dreamer's Edge, Tenebrous Blade, Banana Gun, Bident of the Unseen, Felled Tree Cloak, Cosmic Focus, Suit of the Immortal Judge, Suit of the Astral Overseer.
+- 1 New spell: Veil of Alternative Realities.
+
 ## 2.5.0 - 2020-06-16 - Revised Ranger update!
 - Spelling fixes
 - New condition: Muted
