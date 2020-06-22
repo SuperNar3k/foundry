@@ -24,4 +24,4 @@ Note: this module is even better when paired up with the DynamicEffects, BetterR
 * Activate the module in your World using Manage Modules under the Game Settings tab.
 
 ### License
-This Foundry VTT module is licensed under a Creative Commons Attribution 4.0 International License. This work is licensed under Foundry Virtual Tabletop EULA - Limited License Agreement for module development v 0.1.6.
+This Foundry VTT module is licensed under the Open Gaming License (OGL), Version 1.0a and the Fan Content Policy (https://company.wizards.com/fancontentpolicy). This work is licensed under Foundry Virtual Tabletop EULA - Limited License Agreement for module development v 0.1.6.
