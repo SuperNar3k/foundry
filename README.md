@@ -1,7 +1,7 @@
 # Super's Homebrew Compendium
 
 * Author: SuperNar3k
-* Version: 2.6.0
+* Version: 2.6.1
 * Foundry VTT Compatibility: 0.6.3
 * System Compatibility: D&D 5th Edition 0.9.3
 
