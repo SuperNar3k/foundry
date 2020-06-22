@@ -4,6 +4,10 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.6.2 - 2020-06-23
+- Changed some images, gave some credit that I missed to give
+- Added Fan Content Policy to ReadMe
+
 ## 2.6.1 - 2020-06-22
 - Fixed the linking of feats
 
