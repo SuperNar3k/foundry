@@ -4,6 +4,12 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.8.0 - 2020-06-11 - Anti-Paladin update!
+- New class and class features: The Anti-Paladin!
+- 20 New Items: Edge of Edginess, Lute of the Ruby Verdict, Ring of the Everlasting Eclipse, Solarex, Suit of the Golden Shadow, It Was Not Nice Bees, Magical Boots of Blinding Speed, Mallet of Ogre Magi, Cannonshot Sling, Compass of the Homesick, Dubloonblaster, Arachnophobia Grenade, Cursebreaker's Cutlass, The Eternal Judge, Garlinade, Brineheart's Favorite Coat, Gift of Apostasy, Ring of False Promises, Treasure Hunter's Shovel, Antitheft Pouch
+- 2 New spells: Make Mimic, Screw That Guy In Particular
+- Foundry 0.6.5 compatability!
+
 ## 2.7.0 - 2020-06-27 - Blacksmith update!
 - New class and class features: Blacksmith.
 - Updated Rift Shard icon
@@ -16,7 +22,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 2.6.1 - 2020-06-22
 - Fixed the linking of feats
 
-## 2.6.0 - 2020-06-21 - Major update!
+## 2.6.0 - 2020-06-21 - Feats update!
 - 141 New feats!
 - 37 New items: Eldrinova, Think-Tacs, Quik-Pot, The Bloodletter, Scepter of the Blue Nebula, Suit of the Eternal Storm, Chthonic Tonic, Eldritch Brew, Cantrip Blaster, Ritual Dagger, Space Mace, Icebreaker, Deathly Diadem, Bone Shepherd's Halberd, Fragment of the Cursed, Warpaint of the Initiated, Cure of the Ages, Bubonicum, Hero's Breakfast, Brigand's Acorns, Burst Boots, Core Shard, Venomous Fang, Pik-Me-Up, Boblin's Blackjack, Ambu-Lance, Magitricorne, Boon of Tetanus, Dreamer's Edge, Tenebrous Blade, Banana Gun, Bident of the Unseen, Felled Tree Cloak, Cosmic Focus, Suit of the Immortal Judge, Suit of the Astral Overseer.
 - 1 New spell: Veil of Alternative Realities.
