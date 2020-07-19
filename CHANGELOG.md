@@ -4,7 +4,12 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## 2.8.0 - 2020-06-11 - Anti-Paladin update!
+## 2.8.1 - 2020-07-17
+- New feat: Attunement Master.
+- Fixed the suits of armor.
+- Fixed some spells.
+
+## 2.8.0 - 2020-07-11 - Anti-Paladin update!
 - New class and class features: The Anti-Paladin!
 - 20 New Items: Edge of Edginess, Lute of the Ruby Verdict, Ring of the Everlasting Eclipse, Solarex, Suit of the Golden Shadow, It Was Not Nice Bees, Magical Boots of Blinding Speed, Mallet of Ogre Magi, Cannonshot Sling, Compass of the Homesick, Dubloonblaster, Arachnophobia Grenade, Cursebreaker's Cutlass, The Eternal Judge, Garlinade, Brineheart's Favorite Coat, Gift of Apostasy, Ring of False Promises, Treasure Hunter's Shovel, Antitheft Pouch
 - 2 New spells: Make Mimic, Screw That Guy In Particular
