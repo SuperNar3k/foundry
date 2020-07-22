@@ -4,6 +4,11 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.9.0 - 2020-07-22 - Noble and Paladin update!
+- New class and class features: The Noble!
+- 16 New Paladin-themed items: Armor of Command, Belt of the Sacred Mount, Boots of Enmity, Compelling Weapon, Corrupted Gauntlets, Crown of Radiance, Divine Storm Pauldrons, Gauntlets of Divine Shielding, Gloves of Cowardice, Greaves of the Mounting Heavens, Helm of the Smiting Glare, Lance of the Blessed Beast, Maul of Radiant Echoes, Medallion of Authority, Savior’s Cape, Shield of Divine Spellwarding
+- Fixed some typos and linked in Atavist features. Fixed the wording of some Blacksmith features.
+
 ## 2.8.1 - 2020-07-17
 - New feat: Attunement Master.
 - Fixed the suits of armor.
