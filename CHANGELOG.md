@@ -4,6 +4,13 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.10.0 - 2020-07-23 - MAJOR update!
+- First of all, thank you all for the love and support to keep this module going. I have made a Discord server for all to join (https://discord.gg/pwKDYVB). There, you'll be able to vote on what new content I should add!
+- New class and class features: The Doom Slayer!
+- New barbarian subclass: Path of the Doom Slayer!
+- New class and class features: The Blood Hunter by Matt Mercer
+- 2 New hellish items: Suit of the Hellish Flame and Sandals of the Antichrist
+
 ## 2.9.0 - 2020-07-22 - Noble and Paladin update!
 - New class and class features: The Noble!
 - 16 New Paladin-themed items: Armor of Command, Belt of the Sacred Mount, Boots of Enmity, Compelling Weapon, Corrupted Gauntlets, Crown of Radiance, Divine Storm Pauldrons, Gauntlets of Divine Shielding, Gloves of Cowardice, Greaves of the Mounting Heavens, Helm of the Smiting Glare, Lance of the Blessed Beast, Maul of Radiant Echoes, Medallion of Authority, Savior’s Cape, Shield of Divine Spellwarding
