@@ -1,7 +1,7 @@
 # Super's Homebrew Compendium
 
 * Author: SuperNar3k
-* Version: 2.10.0
+* Version: 2.11.0
 * Foundry VTT Compatibility: 0.6.5
 * System Compatibility: D&D 5th Edition 0.9.4
 
@@ -11,7 +11,7 @@
 
 ### Description
 This module provides additional homebrewed D&D 5th Edition content to be used in FoundryVTT. More to come!
-Spotlights: 160+ items, 200+ feats, 30+ new spels, balanced Deck of Many Things, Inspiration and Mockery tables, D&D 5e Conditions, Atavist and Revised Ranger classes!
+Spotlights: 200+ items, 200+ feats, 30+ new spells, 10+ new classes and subclasses, 4+ new races, balanced Deck of Many Things, Inspiration and Mockery tables, D&D 5e Conditions!
 Note: this module is even better when paired up with the DynamicEffects, BetterRolls and MagicItems modules (but is not needed to function). 
 Join the Discord server [here](https://discord.gg/pwKDYVB) and vote on future content to be added!
 

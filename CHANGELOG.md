@@ -4,6 +4,15 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.11.0 - 2020-08-03 - Major update! New items, classes, and races!
+- New compendium pack: Races!
+- 3 New Races: Illithid, Myconid, and Sharpmind!
+- 13 New Items: Lore Cannon, Cloak of the Scarlet Macaw, Pop-Up Shop, Forceclasp Glypherine, Flashfire Glypherine, Poisonburst Glypherine, Cap'n Mike's Peg Leg, Ol' Shipwrecker, Token of the Sea Speaker, Ring of the Lone Captain, Spyglass of the Seaspecter, Kraken Seer's Eyepatch, Arrow of Obliteration
+- New warlock subclass: The Dearly Departed!
+- New barbarian subclass: Path of the Firesouled!
+- New unique combination: The Dragon race, background, and class!
+- 10 New Dragon items: Dragon Harness, Draconic Breastplate, Draconic War Plate, Aegis War Plate, Amulet of Supremacy, Gorget of Necromancy, Gorget of Reckoning, +1 Talon Sheath, +2 Talon Sheath, and +3 Talon Sheath
+
 ## 2.10.0 - 2020-07-23 - MAJOR update!
 - First of all, thank you all for the love and support to keep this module going. I have made a Discord server for all to join (https://discord.gg/pwKDYVB). There, you'll be able to vote on what new content I should add!
 - New class and class features: The Doom Slayer!
