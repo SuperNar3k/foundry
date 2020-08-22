@@ -4,6 +4,27 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.12.0 - 2020-08-22 - Major update! Added 70 subclasses, 40 feats, 20 races, 19 spells, and 1 class!
+- 20 New Races: Bearkin, Centaur, Fae, Floridian, Georgian, Goblin, Kitsune, Mousefolk, Teletubby, Warforged, Mermaid, Mechanatrix, Kuo-Toa, Arcadon, Brute Behemoth, Bulwark Behemoth, Kahuana, Medusa, Mystawae, Fall Guy
+- 40 New Feats: Exhausted Spells, Theme Song, Medium Armor Master, One Step Ahead, Light Armor Master, Light Weapon Master, Sword Master, Metamagician, Metamagic Reservoir, Mindbreaker Spells, Mystic Reservoir, Necrotic Power, Shield Bearer, Axe Master, Blunt Weapon Master, Brutal Killer, Caller, Charismatic, Deadly Illusionist, Danseuse, Dexterous Grappler, Enchanting Illusionist, Escape Artist, Field Medic, Hemophobic, Hooked Weapon Master, Shadow Spells, Shadow Rogue, Shadow Warrior, Sniper, Skirmisher, Pikeman, Spell Breaker, Stalwart, Standard Bearer, Telekinetic, Thesis Spell, Whip Master, Mark of the Student, Net Master
+- 4 Feats Updated: Point-Blank Shooter, Alertness (now called One Step Ahead), Quick Minded, Fighting Style Master
+- 19 New Spells: Placebo, Otto's Irresitible Reference, Plot Armor, Unstable Lightning, Lightning Spear, Overcharge, Reverberating Jump, Mini-Shield, Rebuke, Winter's Pack, Detonating Shard, Dominion of Winter, Ice Geyser, Conjure Swarm, Legend, Manipulate Fate, Arcane Cannon, Dragon Roar, Draconic Form
+- 8 New Barbarian Paths: Path of the Firesouled, Path of the Doom Seeker, Path of the Depths, Path of the Juggernaut, Path of the Berserker, Path of the Totem Warrior (Penguin, Lion, Goat, Monkey), Path of the Arsenalist, Path of the Void
+- 11 New Cleric Domains: Ambition Domain, Beauty Domain, Blood Domain, Life Domain, Mind Domain, Solidarity Domain, Strength Domain, Travel Domain, Zeal Domain, Valor Domain, Gun Domain
+- 5 New Sorcerer Origins: Draconic Bloodline, Runechild, Feytouched, Thousand Soul Conduit, Stellar Soul
+- 10 New Rogue Archetypes: Emissary, Jester, Thief, Soulknife, Wild Card, Masquerader, Nightblade, Assassin, Terminator, Ghost Robber
+- 7 New Monk Traditions: Way of the Open Hand, Way of the Cobalt Soul, Way of the Spelldancer, Way of the Hellseer, Way of the Frozen Fist, Way of the Flying Dagger, Way of the Living Weapon
+- 6 New Warlock Patrons: The Fiend, The Dearly Departed, The Kraken, The Dread Lord, The Elder Dragon, The Spirit of Vengeance
+- 4 New Paladin Oaths: Oath of Devotion, Oath of the Common Man, Oath of Bone, Oath of Arcane Judgement
+- 5 New Ranger Conclaves: Dragonslayer Conclave, Witchguard Conclave, Hidden Arrow Conclave, Sacred Soul Conclave, Legend Seeker Conclave
+- 4 New Wizard Schools: School of Evocation, School of Chronomancy, School of Rune Carving, School of Immortality
+- 4 New Fighter Archetypes: Champion, Gunslinger, Renegade, Void Bringer
+- 4 New Druid Circles: Circle of the Land, Circle of the Forge, Circle of the Crimson, Circle of the Harvest
+- 2 New Bard Colleges: College of Lore, College of the Dire Singer
+- 2 New Items: Deck of Many Tarrasques, Foeslayer
+- 1 New Class: Summoner
+- Spelling and grammar fixes
+
 ## 2.11.0 - 2020-08-03 - Major update! New items, classes, and races!
 - New compendium pack: Races!
 - 3 New Races: Illithid, Myconid, and Sharpmind!
