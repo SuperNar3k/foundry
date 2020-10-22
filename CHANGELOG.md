@@ -4,6 +4,10 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.12.1 - 2020-10-22
+- Lots of spelling and grammar fixes.
+- Updated for Foundry 0.7.5 compatability 
+
 ## 2.12.0 - 2020-08-22 - Major update! Added 70 subclasses, 40 feats, 20 races, 19 spells, and 1 class!
 - 20 New Races: Bearkin, Centaur, Fae, Floridian, Georgian, Goblin, Kitsune, Mousefolk, Teletubby, Warforged, Mermaid, Mechanatrix, Kuo-Toa, Arcadon, Brute Behemoth, Bulwark Behemoth, Kahuana, Medusa, Mystawae, Fall Guy
 - 40 New Feats: Exhausted Spells, Theme Song, Medium Armor Master, One Step Ahead, Light Armor Master, Light Weapon Master, Sword Master, Metamagician, Metamagic Reservoir, Mindbreaker Spells, Mystic Reservoir, Necrotic Power, Shield Bearer, Axe Master, Blunt Weapon Master, Brutal Killer, Caller, Charismatic, Deadly Illusionist, Danseuse, Dexterous Grappler, Enchanting Illusionist, Escape Artist, Field Medic, Hemophobic, Hooked Weapon Master, Shadow Spells, Shadow Rogue, Shadow Warrior, Sniper, Skirmisher, Pikeman, Spell Breaker, Stalwart, Standard Bearer, Telekinetic, Thesis Spell, Whip Master, Mark of the Student, Net Master
