@@ -4,6 +4,14 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.13.0 - 2021-08-17
+- Spelling and grammar fixes.
+- Fixed some items' Magic Item compatability.
+- Added new Legendary Weapon: Mjolnir.
+- Added new race: Dewborn.
+- Updated for Foundry 0.8.8 compatability
+- Added 25 new Artaskh-brand alcohols: 12 brandy's, 4 cognacs, 4 vodkas, 5 wines. All are real-life traditional wines that can fit perfectly in any D&D setting!
+
 ## 2.12.1 - 2020-10-22
 - Lots of spelling and grammar fixes.
 - Updated for Foundry 0.7.5 compatability 
