@@ -1,10 +1,9 @@
 # Super's Homebrew Compendium
 
 * Author: SuperNar3k
-* Version: 2.13.0
-* Foundry VTT Compatibility: 0.8.8
-* System Compatibility: D&D 5th Edition 1.4.2
-
+* Version: 3.0.0
+* Foundry VTT Compatibility: 11.x
+* System Compatibility: D&D 5th Edition 2.2.1
 ### Link(s) to Module
 * https://foundryvtt.com/packages/
 * https://github.com/SuperNar3k/foundry/tree/master/SupersHomebrewPack

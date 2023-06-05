@@ -4,6 +4,10 @@ All notable changes to this module will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 3.0.0 - 2023-06-04
+- Updating module to FoundryVTT 11.x compatibility.
+- Updating all icons to latest version.
+
 ## 2.13.0 - 2021-08-17
 - Spelling and grammar fixes.
 - Fixed some items' Magic Item compatability.
