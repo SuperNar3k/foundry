@@ -1,5 +1,6 @@
 {
-	"id": "supershomebrewpack",
+	"id": "SupersHomebrewPack",
+	"name": "SupersHomebrewPack",
 	"title": "Super's Homebrew Compendium",
 	"description": "A module that adds additional homebrewed content for your dnd5e games. Classes, subclasses, races, feats, spells, items, you know it!",
 	"authors": [{"name":"SuperNar3k"}],
@@ -8,6 +9,8 @@
 		"minimum": "9",
 		"verified": "11"
 	},
+	"minimumCoreVersion": "9",
+	"compatibleCoreVersion": "11",
 	"url": "https://github.com/SuperNar3k/foundry/tree/master/SupersHomebrewPack",
 	"download": "https://github.com/SuperNar3k/foundry/archive/master.zip",
 	"system": "dnd5e",
