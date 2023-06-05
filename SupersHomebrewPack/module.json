@@ -1,7 +1,7 @@
 {
-	"id": "SupersHomebrewPack",
+	"id": "supershomebrewpack",
 	"title": "Super's Homebrew Compendium",
-	"description": "A module that adds additional homebrewed content for your dnd5e games. Classes, subclasses, races, feats, spells, items, you know it! Works even better when paired with Magic Items, Better Rolls and Dynamic Effects modules!",
+	"description": "A module that adds additional homebrewed content for your dnd5e games. Classes, subclasses, races, feats, spells, items, you know it!",
 	"author": "SuperNar3k",
 	"version": "3.0.0",
 	"compatibility": {
