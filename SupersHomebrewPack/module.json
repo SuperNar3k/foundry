@@ -4,16 +4,13 @@
 	"title": "Super's Homebrew Compendium",
 	"description": "A module that adds additional homebrewed content for your dnd5e games. Classes, subclasses, races, feats, spells, items, you know it!",
 	"authors": [{"name":"SuperNar3k"}],
-	"version": "3.0.0",
+	"version": "4.0.0",
 	"compatibility": {
-		"minimum": "9",
-		"verified": "11"
+		"minimum": "14",
+		"verified": "14.364"
 	},
-	"minimumCoreVersion": "9",
-	"compatibleCoreVersion": "11",
 	"url": "https://github.com/SuperNar3k/foundry/tree/master/SupersHomebrewPack",
 	"download": "https://github.com/SuperNar3k/foundry/archive/master.zip",
-	"system": "dnd5e",
 	"manifest": "https://raw.githubusercontent.com/SuperNar3k/foundry/master/SupersHomebrewPack/module.json",
 	"readme": "https://github.com/SuperNar3k/foundry/blob/master/README.md",
 	"changelog": "https://github.com/SuperNar3k/foundry/blob/master/CHANGELOG.md",
@@ -21,56 +18,48 @@
 		{
 			"name": "items",
 			"label": "Items",
-			"system": "dnd5e",
 			"path": "packs/items.db",
 			"type": "Item"
 		},
 		{
 			"name": "spells",
 			"label": "Spells",
-			"system": "dnd5e",
 			"path": "packs/spells.db",
 			"type": "Item"
 		},
 		{
 			"name": "tables",
 			"label": "Tables",
-			"system": "dnd5e",
 			"path": "packs/tables.db",
 			"type": "RollTable"
 		},
 		{
 			"name": "conditions",
 			"label": "Conditions",
-			"system": "dnd5e",
 			"path": "packs/conditions.db",
 			"type": "JournalEntry"
 		},
 		{
 			"name": "feats",
 			"label": "Feats",
-			"system": "dnd5e",
 			"path": "packs/feats.db",
 			"type": "Item"
 		},
 		{
 			"name": "classes",
 			"label": "Classes",
-			"system": "dnd5e",
 			"path": "packs/classes.db",
 			"type": "Item"
 		},
 		{
 			"name": "class-features",
 			"label": "Class Features",
-			"system": "dnd5e",
 			"path": "packs/class-features.db",
 			"type": "Item"
 		},
 		{
 			"name": "races",
 			"label": "Races",
-			"system": "dnd5e",
 			"path": "packs/races.db",
 			"type": "Item"
 		}
