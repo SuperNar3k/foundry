@@ -18,48 +18,56 @@
 		{
 			"name": "items",
 			"label": "Items",
+			"system": "dnd5e",
 			"path": "packs/items.db",
 			"type": "Item"
 		},
 		{
 			"name": "spells",
 			"label": "Spells",
+			"system": "dnd5e",
 			"path": "packs/spells.db",
 			"type": "Item"
 		},
 		{
 			"name": "tables",
 			"label": "Tables",
+			"system": "dnd5e",
 			"path": "packs/tables.db",
 			"type": "RollTable"
 		},
 		{
 			"name": "conditions",
 			"label": "Conditions",
+			"system": "dnd5e",
 			"path": "packs/conditions.db",
 			"type": "JournalEntry"
 		},
 		{
 			"name": "feats",
 			"label": "Feats",
+			"system": "dnd5e",
 			"path": "packs/feats.db",
 			"type": "Item"
 		},
 		{
 			"name": "classes",
 			"label": "Classes",
+			"system": "dnd5e",
 			"path": "packs/classes.db",
 			"type": "Item"
 		},
 		{
 			"name": "class-features",
 			"label": "Class Features",
+			"system": "dnd5e",
 			"path": "packs/class-features.db",
 			"type": "Item"
 		},
 		{
 			"name": "races",
 			"label": "Races",
+			"system": "dnd5e",
 			"path": "packs/races.db",
 			"type": "Item"
 		}
